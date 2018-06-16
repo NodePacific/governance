@@ -1,61 +1,64 @@
 This Constitution is a multi-party contract entered into by the Members by virtue of their use of this blockchain.
 
-# Article I - No Initiation of Violence
-Members shall not initiate violence or the threat of violence against another Member. Lawful prosecution of crimes with the goal of preserving life, liberty and property does not constitute initiation of violence.
+# Preamble
+All accounts created or naturalized in the EOS and subject to the jurisdiction thereof, are Members of the EOS and of the communities wherein they reside.  We the Members of the EOS, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our prosperity, do ordain and establish this Constitution for the EOS.
 
-# Article II - No Perjury
-Members shall be liable for losses caused by false or misleading attestations and shall forfeit any profit gained thereby.
+# Article I – No Offense
+Nor shall any Member intentionally, knowingly, or recklessly commit an offense to another Member.  Lawful prosecution of crimes with the goal of preserving or protecting life, liberty, or property does not constitute committing an offense.
 
-# Article III - Rights
-The Members grant the right of contract and of private property to each other, therefore no property shall change hands except with the consent of the owner, by a valid Arbitrator’s order, or via community referendum. This Constitution creates no positive rights for or between any Members.
+# Article II – No Perjury
+Each Member shall be liable for losses arising from making any false or misleading statement.  Each Member shall fully disgorge any profit resulting from making such false or misleading statement.
 
-# Article IV - No Vote Buying
-No Member shall offer nor accept anything of value in exchange for a vote of any type, nor shall any Member unduly influence the vote of another.
+# Article III – Property Rights 
+Nor shall any Person deprive any Member of private property without due process of law.  Nor shall private property of any Member be taken for public use, without just compensation.  Nor shall any Person deny to any Member the equal protection of the laws.
 
-# Article V - No Fiduciary
-No Member nor EOS token holder shall have fiduciary responsibility to support the value of the EOS token. The Members do not authorize anyone to hold assets, borrow, nor contract on behalf of EOS token holders collectively. This blockchain has no owners, managers or fiduciaries; therefore, no Member shall have beneficial interest in more than 10% of the EOS token supply.
+# Article IV – No Vote Buying
+Nor shall any Member offer or accept anything of value in exchange for a vote of any type.  Nor shall any Member unduly influence the vote of another.  Nor shall any vote under duress or undue influence be valid.
 
-# Article VI - Restitution
-Each Member agrees that penalties for breach of contract may include, but are not limited to, fines, loss of account, and other restitution.
+# Article V – No Fiduciary
+Nor shall any Member or EOS token holder have fiduciary duty to EOS.  Nor shall any Member authorize any Person to hold assets, finance, or enter into contractual relationship on behalf of all or any of EOS token holders.  This blockchain has no owners, managers, or fiduciaries.  Nor shall any Member have beneficial interest in more than ten percent (10%) of the outstanding EOS tokens.
 
-# Article VII - Open Source
-Each Member who makes available a smart contract on this blockchain shall be a Developer. Each Developer shall offer their smart contracts via a free and open source license, and each smart contract shall be documented with a Ricardian Contract stating the intent of all parties and naming the Arbitration Forum that will resolve disputes arising from that contract.
+# Article VI – Punitive Damages
+Each Member agrees that punitive damages for breach of contract may include, but not limited to, substantial fines, loss of account, nullification of transactions, and other punitive damages.
 
-# Article VIII - Language
-Multi-lingual contracts must specify one prevailing language in case of dispute and the author of any translation shall be liable for losses due to their false, misleading, or ambiguous attested translations.
+# Article VII – Open Source
+Each Member who distributes a smart contract on this blockchain shall be a Developer.  Each Developer shall publicize his smart contracts via a free and open-source license, and each smart contract publicized shall be documented with a Ricardian Contract stating the intent of all parties and designating the Arbitral Tribunal that will resolve disputes arising from that contract.
 
-# Article IX - Dispute Resolution
-All disputes arising out of or in connection with this Constitution shall be finally settled under the Rules of Dispute Resolution of the EOS Core Arbitration Forum by one or more arbitrators appointed in accordance with the said Rules.
+# Article VIII – Language
+Multi-lingual contracts must specify one prevailing language in the event that a dispute arises therefrom.  English shall be the default language if there is no prevailing language specified.  The author of any translation shall be liable for losses, if any, arising from his false, misleading, or ambiguous translations.
 
-# Article X - Choice of Law
-Choice of law for disputes shall be, in order of precedence, this Constitution and the Maxims of Equity.
+# Article IX – Dispute Resolution
+All Members agree that, in the event that a dispute arises and the Parties are unable to resolve it, then the dispute shall be settled and determined by binding arbitration, as the default remedy.  The dispute shall be determined and resolved by a tribunal composed of three arbitrators.  Each Party shall appoint one arbitrator, and the two arbitrators previously appointed shall appoint the third arbitrator, who shall act as the chairman of the tribunal.  The Parties may resort to other dispute resolution mechanism, such as, litigation or mediation, should they mutually agree to choose to do so.
 
-# Article XI - Amending
-This Constitution and its subordinate documents shall not be amended except by a vote of the token holders with no less than 15% vote participation among tokens and no fewer than 10% more Yes than No votes, sustained for 30 continuous days within a 120 day period.
+# Article X – Choice of Law
+This Constitution shall be interpreted, construed, and enforced in accordance with the Maxims of Equity.
 
-# Article XII - Publishing
-Members may only publish information to the Blockchain that is within their right to publish. Furthermore, Members voluntarily consent for all Members to permanently and irrevocably retain a copy, analyze, and distribute all broadcast transactions and derivative information.
+# Article XI – Amending
+This Constitution and its ancillary documents may not be amended except by a vote of the token holders representing no less than fifteen percent (15%) of the outstanding tokens entitled to vote and the number of “Yes” vote is at least ten percent (10%) more than the number of “No” vote.
 
-# Article XIII - Informed Consent
-All service providers who produce tools to facilitate the construction and signing of transactions on behalf of other Members shall present to said other Members the full Ricardian contract terms of this Constitution and other referenced contracts. Service providers shall be liable for losses resulting from failure to disclose the full Ricardian contract terms to users.
+# Article XII – Publishing
+Each Member may publish information to this blockchain only if he is entitled to publish such information.  Each Member may permanently and irrevocably retain a copy of, analyze, and distribute all transactions and derivative information that have been duly published.
 
-# Article XIV - Severability
-If any part of this Constitution is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+# Article XIII – Informed Consent
+Each service provider who produces tools to facilitate the construction and conclusion of transactions on behalf of applicable Members shall present to such Members the terms and conditions of the full Ricardian contract under this Constitution and other related contracts.  Service providers shall be liable for losses, if any, resulting from failure to disclose the terms and conditions of the full Ricardian contract to applicable Members.
 
-# Article XV - Termination of Agreement
-A Member is automatically released from all revocable obligations under this Constitution 3 years after the last transaction signed by that Member is incorporated into the blockchain. After 3 years of inactivity an account may be put up for auction and the proceeds distributed to all Members according to the system contract provisions then in effect for such redistribution.
+# Article XIV – Severability
+If any clause of this Constitution is illegal, invalid, or unenforceable under any present or future law, the remainder of this Constitution will not be affected thereby.  If any such clause is held to be illegal, invalid, or unenforceable, there will be added in lieu thereof a clause as similar in terms to such clause as is possible to make such clause legal, valid, and enforceable.
 
-# Article XVI - Developer Liability
-Members agree to hold software developers harmless for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+# Article XV – Termination
+Three (3) years after a Member’s last concluded transaction is recorded on this blockchain, such Member is automatically discharged from all retroactive obligations under this Constitution.  In the event that an account is inactive for consecutive three (3) years, such account may be put up for auction and the proceeds derived therefrom may be redistributed to all Members in accordance with the applicable rules then in effect for such redistribution.
 
-# Article XVII - Consideration
-All rights and obligations under this Constitution are mutual and reciprocal and of equally significant value and cost to all parties.
+# Article XVI – Indemnification for Developers
+Each Member agrees to defend, indemnify, and hold harmless software developers for and against any loss, damage, claim, or obligation which results from, arises out of or in connection with such developer’s negligence, except for gross negligence or willful misconduct.
 
-# Article XVIII - Acceptance
-A contract is deemed accepted when a member signs a transaction which incorporates a TAPOS proof of a block whose implied state incorporates an ABI of said contract and said transaction is incorporated into the blockchain.
+# Article XVII – Consideration
+All rights and obligations under this Constitution are in consideration of the mutual covenants and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by all Members.
 
-# Article XIX - Counterparts
-This Constitution may be executed in any number of counterparts, each of which when executed and delivered shall constitute a duplicate original, but all counterparts together shall constitute a single agreement.
+# Article XVIII – Acceptance
+A contract is deemed to be accepted when: (i) a Member concludes a transaction which incorporates a TAPOS proof of a block whose implied state incorporates an ABI of said contract and (ii) said transaction is recorded unto this blockchain.
 
-# Article XX - Interim Constitution
-This constitution is interim and is intended to remain in effect until a permanent constitution is written and ratified in a referendum.
+# Article XIX – Counterparts
+This Constitution may be established in multiple counterparts, each of which will be an original instrument, but all of which will constitute one agreement.
+
+# Article XX – Interim Constitution
+This Constitution is interim and is intended to remain in effect until the final Constitution is drafted, ratified and promulgated in a referendum.
